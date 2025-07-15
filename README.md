@@ -6,12 +6,11 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a passionate developer focused on building practical, real-world web applications
-- 🔭 I’ve completed two major projects:
-  - ✅ **Job Portal Website**
-  - ✅ **Courier Delivery Management System**
-- 🌱 Currently learning **advanced PHP**, **UI/UX**, and **project deployment**
-- 💬 Ask me about **PHP, MySQL, HTML, CSS, JavaScript**
+- 🎓 I'm a passionate developer focused on building practical, real-world web applications  
+- 🌱 Currently learning **advanced PHP**, **UI/UX**, and **project deployment**  
+- 🗨️ Ask me about **PHP, MySQL, HTML, CSS, JavaScript**  
+- 📄 Certified in **CCAIT (Accounting and Information Technology)**  
+- 📜 Also certified in **C and Advanced C Programming**, and **Python with Artificial Intelligence**
 
 ---
 
