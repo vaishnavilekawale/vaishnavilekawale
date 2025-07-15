@@ -6,11 +6,13 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm a passionate developer focused on building practical, real-world web applications  
+- 🎓 Computer Science graduate from Vishwakarma College,(V.I.I.T) Pune (**CGPA: 8.36**)  
 - 🌱 Currently learning **advanced PHP**, **UI/UX**, and **project deployment**  
 - 🗨️ Ask me about **PHP, MySQL, HTML, CSS, JavaScript**  
 - 📄 Certified in **CCAIT (Accounting and Information Technology)**  
 - 📜 Also certified in **C and Advanced C Programming**, and **Python with Artificial Intelligence**
+- 📫 Reach me at lekawalevaishnavi@gmail.com
+
 
 ---
 
