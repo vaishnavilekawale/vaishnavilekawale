@@ -1,17 +1,27 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Lekawale</h1>
 <h3 align="center">Web Developer | PHP • MySQL • HTML • CSS • JavaScript</h3>
-<p align="center"> <a href="mailto:lekawalevaishnavi@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https:https://www.linkedin.com/in/vaishnavi-lekawale-145510371" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/vaishnavilekawale" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a>
+
+<p align="center">
+  <a href="mailto:lekawalevaishnavi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavi-lekawale-145510371" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/vaishnavilekawale" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 Computer Science graduate from Vishwakarma College,(V.I.I.T) Pune (**CGPA: 8.36**)  
+- 🎓 Computer Science graduate from Vishwakarma College (V.I.I.T), Pune (**CGPA: 8.36**)  
 - 🌱 Currently learning **advanced PHP**, **UI/UX**, and **project deployment**  
 - 📄 Certified in **CCAIT (Accounting and Information Technology)**  
 - 📜 Also certified in **C and Advanced C Programming**, and **Python with Artificial Intelligence**
-- 📫 Reach me at lekawalevaishnavi@gmail.com
-
+- 📫 Reach me at **lekawalevaishnavi@gmail.com**
 
 ---
 
@@ -63,7 +73,6 @@
 
 ---
 
-
 ### 🚀 Featured Projects
 
 #### 🔹 [Job Portal Website](https://github.com/vaishnavilekawale/Job-Portal-Website)
@@ -90,6 +99,16 @@ A courier tracking system that includes:
 
 ---
 
+### 🤝 Let’s Connect
 
-🤝 Let’s Connect
-<p align="center"> <a href="mailto:lekawalevaishnavi@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https:https://www.linkedin.com/in/vaishnavi-lekawale-145510371" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/vaishnavilekawale" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> 
+<p align="center">
+  <a href="mailto:lekawalevaishnavi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vaishnavi-lekawale-145510371" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/vaishnavilekawale" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
