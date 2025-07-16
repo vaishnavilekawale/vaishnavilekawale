@@ -8,7 +8,6 @@
 
 - 🎓 Computer Science graduate from Vishwakarma College,(V.I.I.T) Pune (**CGPA: 8.36**)  
 - 🌱 Currently learning **advanced PHP**, **UI/UX**, and **project deployment**  
-- 🗨️ Ask me about **PHP, MySQL, HTML, CSS, JavaScript**  
 - 📄 Certified in **CCAIT (Accounting and Information Technology)**  
 - 📜 Also certified in **C and Advanced C Programming**, and **Python with Artificial Intelligence**
 - 📫 Reach me at lekawalevaishnavi@gmail.com
@@ -91,14 +90,6 @@ A courier tracking system that includes:
 
 ---
 
-### 🎯 My Goals
-
-- 🚀 Deploy both projects with live hosting
-- 🧠 Learn MVC architecture and Laravel
-- 🎨 Build clean portfolio website
-- ✍️ Write project documentation & blogs
-
----
 
 🤝 Let’s Connect
 <p align="center"> <a href="mailto:lekawalevaishnavi@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> <a href="https:https://www.linkedin.com/in/vaishnavi-lekawale-145510371" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://github.com/vaishnavilekawale" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a> 
