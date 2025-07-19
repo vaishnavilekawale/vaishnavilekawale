@@ -75,7 +75,7 @@
 
 ### 🚀 Featured Projects
 
-#### 🔹 [Job Portal Website](https://github.com/vaishnavilekawale/Job-Portal-Website)
+#### 🔹 [Job Portal Website](https://github.com/vaishnavilekawale/Online-Job-Portal)
 A fully functional job portal with:
 - Recruiter and applicant login
 - Job posting & tracking
