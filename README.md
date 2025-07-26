@@ -69,18 +69,20 @@
 
 ### 🔹 [Online Job Portal](https://github.com/vaishnavilekawale/Online-Job-Portal)
 > A complete job portal platform with:
-- 👥 Recruiter & Applicant modules
-- 📝 Job Posting & Application Tracking
-- 📅 Interview Scheduling
-- 🛠 Admin Dashboard with full control
+- 👥 Recruiter & Applicant modules  
+- 📝 Job Posting & Application Tracking  
+- 📅 Interview Scheduling  
+- 🛠 Admin Dashboard with full control  
 
 ---
 
-### 🔹 [Courier Delivery System](https://github.com/vaishnavilekawale/Courier-Delivery)
-> Web app for courier booking & tracking:
-- 📦 Book & Track Couriers
-- 🔐 Secure User/Admin Login
-- 📊 CRUD with PHP + MySQL
+### 🔹 [FastTrain - Online Train Booking System](https://github.com/vaishnavilekawale/FastTrain)
+> A train ticket booking platform with:
+- 🚆 Book Train Tickets with Class & Date Selection  
+- 👤 User Login, Signup & Dashboard  
+- 🎫 View Booked Tickets  
+- 📩 Contact & About Pages  
+- 💻 Built using HTML, CSS, JS, PHP, MySQL  
 
 ---
 
