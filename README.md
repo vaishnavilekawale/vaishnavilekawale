@@ -18,7 +18,7 @@
 ## 🧑‍💼 About Me
 
 - 🎓 Computer Science graduate from **VIIT, Pune** (CGPA: **8.36**)
-- 🚀 Exploring the **MERN Stack** — learning **React**, **Node.js**, **Express**, and **MongoDB** to build powerful full-stack web apps from scratch.
+- 🚀 Exploring the **MERN Stack** — learning **React**, **Node.js**, **Express**, and **MongoDB** to build powerful full-stack web apps.
 - 📜 Certified in **CCAIT (Accounting + IT)** | **C & Advanced C** | **Python with AI**
 - 💬 I love turning ideas into full-stack web projects
 - 📫 Reach out to me: **lekawalevaishnavi@gmail.com**
