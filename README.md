@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm <span style="color:#e91e63">Vaishnavi Lekawale</span> 👩‍💻</h1>
-<h3 align="center">💻 Web Developer | PHP • MySQL • HTML • CSS • JavaScript</h3>
+<h3 align="center">💻 Full Stack Web Developer | MERN • PHP • MySQL</h3>
 
 <p align="center">
   <a href="mailto:lekawalevaishnavi@gmail.com">
@@ -11,32 +11,34 @@
   <a href="https://github.com/vaishnavilekawale" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/vaishnavilekawale/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
 ---
 
-## 🧑‍💼 About Me
+## 🧑‍💼 About Me  
 
-- 🎓 Computer Science graduate from **VIIT, Pune** (CGPA: **8.36**)
-- 🚀 Exploring the **MERN Stack** — learning **React.js**, **Node.js**, **Express**, and **MongoDB** to build powerful full-stack web apps.
-- 📜 Certified in **CCAIT (Accounting + IT)** | **C & Advanced C** | **Python with AI**
-- 💬 I love turning ideas into full-stack web projects
+- 🎓 Computer Science graduate from **VIIT, Pune** (CGPA: **8.36**)  
+- 🚀 Passionate about **Full-Stack Development** (MERN + PHP/MySQL)  
+- 📜 Certified in **CCAIT (Accounting + IT)** | **C & Advanced C** | **Python with AI**  
+- 💡 I enjoy solving problems and building scalable applications  
 - 📫 Reach out to me: **lekawalevaishnavi@gmail.com**
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
-### 💻 Languages  
+### 💻 Programming Languages  
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 🌐 Frontend  
+### 🌐 Frontend Development  
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,18 +47,21 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-### 🛠 Backend  
+### 🛠 Backend Development  
 <p>
   <img src="https://img.shields.io/badge/PHP-8892BF?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
-### 🗃️ Databases & Tools  
+### 🗄️ Databases  
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=php&logoColor=white" />
 </p>
 
-### ⚙️ Dev Tools  
+### ⚙️ Tools & Platforms  
 <p>
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -67,10 +72,10 @@
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Projects  
 
-### 🔹 [Online Job Portal](https://github.com/vaishnavilekawale/Online-Job-Portal)
-> A complete job portal platform with:
+### 🔹 [Online Job Portal](https://github.com/vaishnavilekawale/Online-Job-Portal)  
+> A complete job portal platform with:  
 - 👥 Recruiter & Applicant modules  
 - 📝 Job Posting & Application Tracking  
 - 📅 Interview Scheduling  
@@ -78,8 +83,8 @@
 
 ---
 
-### 🔹 [FastTrain - Online Train Booking System](https://github.com/vaishnavilekawale/FastTrain)
-> A train ticket booking platform with:
+### 🔹 [FastTrain - Online Train Booking System](https://github.com/vaishnavilekawale/FastTrain)  
+> A train ticket booking platform with:  
 - 🚆 Book Train Tickets with Class & Date Selection  
 - 👤 User Login, Signup & Dashboard  
 - 🎫 View Booked Tickets  
@@ -88,7 +93,7 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vaishnavilekawale&show_icons=true&theme=radical&hide=contribs&count_private=true" width="48%" />
@@ -97,7 +102,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## 🤝 Connect with Me  
 
 <p align="center">
   <a href="mailto:lekawalevaishnavi@gmail.com">
@@ -108,5 +113,8 @@
   </a>
   <a href="https://github.com/vaishnavilekawale" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/vaishnavilekawale/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
