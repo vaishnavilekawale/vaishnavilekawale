@@ -72,6 +72,19 @@
 
 ---
 
+## 💼 Experience  
+
+### 🔹 Front-End Development Intern — CODEXINTERN  
+📅 **1st August 2025 – 31st August 2025**  
+📍 Virtual Internship  
+
+- Developed **modern front-end projects** using **React.js** and **Tailwind CSS**.  
+- Built responsive and dynamic UIs with reusable components and utility-first styling.  
+- Improved application performance and followed clean coding practices.  
+- Successfully completed the internship program and received a certificate of completion.  
+
+---
+
 ## 🌟 Featured Projects  
 
 ### 🔹 [Online Job Portal](https://github.com/vaishnavilekawale/Online-Job-Portal)  
