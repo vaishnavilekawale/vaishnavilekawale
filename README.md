@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hi, I'm <span style="color:#e91e63">Vaishnavi Lekawale</span> 👩‍💻</h1>
-<h3 align="center">💻 A passionate Full-Stack Web Developer from Pune, India </h3>
+<h3 align="center">💻 A passionate Full-Stack Web Developer </h3>
 
 <p align="center">
   <a href="mailto:lekawalevaishnavi@gmail.com">
