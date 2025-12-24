@@ -21,7 +21,7 @@
 ## 🧑‍💼 About Me  
 
 - 🎓 Computer Science graduate from **VIIT, Pune** (CGPA: **8.36**)  
-- 🚀 Passionate about **Full-Stack Development** (MERN + PHP/MySQL)  
+- 🚀 Passionate about **Full-Stack Development** 
 - 📜 Certified in **CCAIT (Accounting + IT)** | **C & Advanced C** | **Python with AI**  
 - 💡 I enjoy solving problems and building scalable applications  
 - 📫 Reach out to me: **lekawalevaishnavi@gmail.com**
